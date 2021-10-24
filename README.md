@@ -13,7 +13,7 @@
   - 各種CIサービスとFastlaneを用いたiOS向けのCI基盤の構築が得意です。
 
 - サーバサイド開発
-  - Ruby on Rails, Java(Spring WebFlux), Python(Django)を用いてスマホアプリのバックエンド開発を行った経験があります。
+  - Ruby on Rails, Java(Spring WebFlux, Reactor), Python(Django)を用いてスマホアプリのバックエンド開発を行った経験があります。
   - AWSを利用した経験があります。
 
 - スクラム開発
