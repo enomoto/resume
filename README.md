@@ -70,6 +70,7 @@ iOSエンジニアの採用面談を担当しました。
 - GitLab CI, FastlaneによるCI基盤の整備
 - Python, Django, jQueryを使った管理画面の開発
 - Python, Djangoを使ったモバイルバックエンド、WebViewの開発
+- チームリーダーとしてメンバーとの1on1を担当
 - 採用活動
 
 ### 株式会社ウィズ・ワン 2010/10 ~ 2015/12
