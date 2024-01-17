@@ -119,4 +119,5 @@ SESの案件でモバイルアプリやWebアプリの開発を担当しまし�
 - [Twitter](https://twitter.com/enomotok_)
 - [Qiita](https://qiita.com/enomotok)
 - [Speaker Deck](https://speakerdeck.com/enomotok)
+- [STORES Product Blog(自社ブログ)](https://product.st.inc/archive/author/enmtknt)
 
