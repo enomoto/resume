@@ -30,6 +30,14 @@
 - 採用活動に積極的にコミットします。これまで数社で採用面接やカジュアル面談を担当しました。
 - 新しいことを学ぶことが好きです。読書や新しい技術の学習を通じて、少しずつでも自分が向上していくことを楽しみます。
 
+## 技術発信・コミュニティ活動
+
+- [STORES Product Blog（自社ブログの私が執筆した記事）](https://product.st.inc/archive/author/enmtknt)
+- [Speaker Deck（登壇資料）](https://speakerdeck.com/enomotok)
+- [Blog](http://enmtknt.hateblo.jp/)
+- [X(Twitter)](https://twitter.com/enomot_)
+- [Qiita](https://qiita.com/enomotok)
+
 ## 職務経歴
 
 | 期間 | 会社名 | 職種 |
@@ -122,11 +130,3 @@ iOSエンジニアとして受託案件のアプリ開発、自社プッシュ�
 |TOEIC 895点|2018|
 |応用情報技術者試験|2013|
 |普通自動車第一種運転免許|2003|
-
-## 技術発信・コミュニティ活動
-
-- [STORES Product Blog（自社ブログの私が執筆した記事）](https://product.st.inc/archive/author/enmtknt)
-- [Speaker Deck（登壇資料）](https://speakerdeck.com/enomotok)
-- [Blog](http://enmtknt.hateblo.jp/)
-- [X(Twitter)](https://twitter.com/enomot_)
-- [Qiita](https://qiita.com/enomotok)
