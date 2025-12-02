@@ -125,11 +125,10 @@ iOSエンジニアとして受託案件のアプリ開発、自社プッシュ�
 |応用情報技術者試験|2013|
 |普通自動車第一種運転免許|2003|
 
-## ブログ等
+## 技術発信・コミュニティ活動
 
-- [STORES Product Blog(自社ブログ)](https://product.st.inc/archive/author/enmtknt)
-- [Speaker Deck](https://speakerdeck.com/enomotok)
+- [STORES Product Blog（自社ブログの私が執筆した記事）](https://product.st.inc/archive/author/enmtknt)
+- [Speaker Deck（登壇資料）](https://speakerdeck.com/enomotok)
 - [Blog](http://enmtknt.hateblo.jp/)
-- [Twitter](https://twitter.com/enomotok_)
+- [X(Twitter)](https://twitter.com/enomot_)
 - [Qiita](https://qiita.com/enomotok)
-
